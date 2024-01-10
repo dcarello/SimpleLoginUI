@@ -4,4 +4,4 @@ A simple UI login design that can be updated and changed based on the specific a
 
 Baseline design
 
-![Alt text](image.png)
+![Alt text](images/image.png)
